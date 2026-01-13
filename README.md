@@ -58,13 +58,13 @@ The project uses selected health indicators such as:
 - Visualization: correlation heatmap
 
 ### 3) Model Development
-**Baseline Model**
+**a) Baseline Model**
 - Decision Tree
 
-**Improved Model**
+**b) Improved Model**
 - Gradient Boosting (ensemble boosting)
 
-**Other comparison models**
+**c) Other comparison models**
 - Logistic Regression (L2 / Ridge regularization)
 - Random Forest
 - AdaBoost
